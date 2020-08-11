@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\IntegralConversion\IntegralConversion\bin\Debug\IntegralConversion.exe.config
+C:\Users\user\source\repos\IntegralConversion\IntegralConversion\bin\Debug\IntegralConversion.exe
+C:\Users\user\source\repos\IntegralConversion\IntegralConversion\bin\Debug\IntegralConversion.pdb
+C:\Users\user\source\repos\IntegralConversion\IntegralConversion\obj\Debug\IntegralConversion.csprojAssemblyReference.cache
+C:\Users\user\source\repos\IntegralConversion\IntegralConversion\obj\Debug\IntegralConversion.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IntegralConversion\IntegralConversion\obj\Debug\IntegralConversion.exe
+C:\Users\user\source\repos\IntegralConversion\IntegralConversion\obj\Debug\IntegralConversion.pdb
